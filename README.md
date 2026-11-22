@@ -19,13 +19,19 @@ My Portfolio Projects
 
 Practice evaluating AI-generated answers and identifying factual inaccuracies.
 
-View Project
+[View Project](https://github.com/whoistysean/ai-response-evaluation)
 
 2. Comparative AI Evaluation
 
 Practice comparing two AI-generated responses using structured evaluation criteria.
 
-View Project
+[View Project](https://github.com/whoistysean/comparative-ai-evaluation)
+
+3. Text Data Annotation
+
+A beginner sentiment analysis project involving customer review classification, annotation guidelines, and quality assurance.
+
+[View Project](https://github.com/whoistysean/text-data-annotation) 
 
 Career Goal
 
