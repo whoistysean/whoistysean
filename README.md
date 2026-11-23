@@ -38,7 +38,9 @@ A beginner sentiment analysis project involving customer review classification, 
 
 5. [Prompt Engineering Practice](https://github.com/whoistysean/prompt-engineering-practice)
 
-6. [Annotation Guidelines & Quality Assurance](https://github.com/whoistysean/annotation-guidelines-and-qa) 
+6. [Annotation Guidelines & Quality Assurance](https://github.com/whoistysean/annotation-guidelines-and-qa)
+
+7. [Spreadsheet Data Quality & QA](https://github.com/whoistysean/spreadsheet-data-quality-qa)
 
 Career Goal
 
