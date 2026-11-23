@@ -55,6 +55,9 @@ A beginner sentiment analysis project involving customer review classification, 
 Practised ranking AI responses, identifying factual errors, and evaluating response quality using five evaluation criteria.
 
 [AI Response Ranking and Preference Evaluation](https://github.com/whoistysean/ai-response-ranking-and-preference-evaluation)
+ 
+13. [Advanced AI Evaluation and Annotator Decision-Making](https://github.com/whoistysean/advanced-ai-evaluation-and-annotator-decision-making)
+
 
 Career Goal
 
