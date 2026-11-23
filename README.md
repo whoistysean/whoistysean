@@ -50,6 +50,12 @@ A beginner sentiment analysis project involving customer review classification, 
 
 11. [AI Instruction Following & Guideline Compliance](https://github.com/whoistysean/ai-instruction-following-and-guideline-compliance)
 
+12. AI Response Ranking and Preference Evaluation.
+    
+Practised ranking AI responses, identifying factual errors, and evaluating response quality using five evaluation criteria.
+
+[AI Response Ranking and Preference Evaluation](https://github.com/whoistysean/ai-response-ranking-and-preference-evaluation)
+
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
