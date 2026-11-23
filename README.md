@@ -38,6 +38,8 @@ A beginner sentiment analysis project involving customer review classification, 
 
 5. [Prompt Engineering Practice](https://github.com/whoistysean/prompt-engineering-practice)
 
+6. [Annotation Guidelines & Quality Assurance](https://github.com/whoistysean/annotation-guidelines-and-qa) 
+
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
