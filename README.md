@@ -46,6 +46,8 @@ A beginner sentiment analysis project involving customer review classification, 
 
 9. [AI Hallucination Detection & Verification](https://github.com/whoistysean/ai-hallucination-detection-and-verification)
 
+10. [AI Safety & Harmful Content Evaluation](https://github.com/whoistysean/ai-safety-and-harmful-content-evaluation)
+
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
