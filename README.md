@@ -42,6 +42,8 @@ A beginner sentiment analysis project involving customer review classification, 
 
 7. [Spreadsheet Data Quality & QA](https://github.com/whoistysean/spreadsheet-data-quality-qa)
 
+8. [Advanced AI Response Evaluation](https://github.com/whoistysean/advanced-ai-response-evaluation)
+
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
