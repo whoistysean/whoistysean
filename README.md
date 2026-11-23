@@ -48,6 +48,8 @@ A beginner sentiment analysis project involving customer review classification, 
 
 10. [AI Safety & Harmful Content Evaluation](https://github.com/whoistysean/ai-safety-and-harmful-content-evaluation)
 
+11. [AI Instruction Following & Guideline Compliance](https://github.com/whoistysean/ai-instruction-following-and-guideline-compliance)
+
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
