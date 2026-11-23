@@ -34,9 +34,9 @@ A beginner sentiment analysis project involving customer review classification, 
 [View Project](https://github.com/whoistysean/text-data-annotation) 
 
 
-- [AI Fact-Checking & Research](https://github.com/whoistysean/ai-fact-checking)
+4. [AI Fact-Checking & Research](https://github.com/whoistysean/ai-fact-checking)
 
-- [Prompt Engineering Practice](https://github.com/whoistysean/prompt-engineering-practice)
+5. [Prompt Engineering Practice](https://github.com/whoistysean/prompt-engineering-practice)
 
 Career Goal
 
