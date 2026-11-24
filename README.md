@@ -60,6 +60,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 14. [AI Evaluation Rubrics and Scoring Systems](https://github.com/whoistysean/ai-evaluation-rubrics-and-scoring-systems)
 
+15. [AI Evaluation Error Analysis and Feedback Writing](https://github.com/whoistysean/ai-evaluation-error-analysis-and-feedback-writing)
+
 
 Career Goal
 
