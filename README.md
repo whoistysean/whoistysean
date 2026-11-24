@@ -58,6 +58,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
  
 13. [Advanced AI Evaluation and Annotator Decision-Making](https://github.com/whoistysean/advanced-ai-evaluation-and-annotator-decision-making)
 
+14. [AI Evaluation Rubrics and Scoring Systems](https://github.com/whoistysean/ai-evaluation-rubrics-and-scoring-systems)
+
 
 Career Goal
 
