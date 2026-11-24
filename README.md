@@ -62,6 +62,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 15. [AI Evaluation Error Analysis and Feedback Writing](https://github.com/whoistysean/ai-evaluation-error-analysis-and-feedback-writing)
 
+16. [Advanced Fact-Checking and Evidence-Based Evaluation](https://github.com/whoistysean/advanced-fact-checking-and-evidence-based-evaluation)
+
 
 Career Goal
 
