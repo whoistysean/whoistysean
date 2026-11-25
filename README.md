@@ -66,6 +66,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 17. [Advanced AI Instruction Following and Conflict Resolution](https://github.com/whoistysean/advanced-ai-instruction-following-and-conflict-resolution)
 
+18. [AI Response Completeness, Relevance and Missing Information Evaluation](https://github.com/whoistysean/ai-response-completeness-relevance-and-missing-information)
+
 
 Career Goal
 
