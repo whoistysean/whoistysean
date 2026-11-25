@@ -68,6 +68,7 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 18. [AI Response Completeness, Relevance and Missing Information Evaluation](https://github.com/whoistysean/ai-response-completeness-relevance-and-missing-information)
 
+19. [Advanced AI Response Evaluation and Annotator Consistency](https://github.com/whoistysean/advanced-ai-response-evaluation-and-annotator-consistency)
 
 Career Goal
 
