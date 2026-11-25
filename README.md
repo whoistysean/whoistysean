@@ -64,6 +64,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 16. [Advanced Fact-Checking and Evidence-Based Evaluation](https://github.com/whoistysean/advanced-fact-checking-and-evidence-based-evaluation)
 
+17. [Advanced AI Instruction Following and Conflict Resolution](https://github.com/whoistysean/advanced-ai-instruction-following-and-conflict-resolution)
+
 
 Career Goal
 
