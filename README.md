@@ -70,6 +70,9 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 19. [Advanced AI Response Evaluation and Annotator Consistency](https://github.com/whoistysean/advanced-ai-response-evaluation-and-annotator-consistency)
 
+20. [Advanced Evaluation and Quality Assurance](https://github.com/whoistysean/advanced-evaluation-and-quality-assurance)
+
+    
 Career Goal
 
 I’m continuously developing my skills and building practical projects to pursue remote opportunities in AI training, data annotation, and AI evaluation.
