@@ -72,6 +72,8 @@ Practised ranking AI responses, identifying factual errors, and evaluating respo
 
 20. [Advanced Evaluation and Quality Assurance](https://github.com/whoistysean/advanced-evaluation-and-quality-assurance)
 
+21. [Advanced AI Error Analysis and Evaluation Feedback](https://github.com/whoistysean/advanced-ai-error-analysis-and-evaluation-feedback)
+
     
 Career Goal
 
